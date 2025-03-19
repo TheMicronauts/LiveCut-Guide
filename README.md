@@ -18,4 +18,4 @@ Un bug graphique impose de redimensionner la fenêtre du plug-in pour faire appa
 ---
 
 Ce projet est basé sur LiveCut de eventual-recluse, sous licence GPL-3.0.
-Vous pouvez consulter le code source original sur [son dépôt](https://github.com/eventual-recluse/LiveCut).
+Vous pouvez consulter le code source original sur [son dépôt GitHub](https://github.com/eventual-recluse/LiveCut).
