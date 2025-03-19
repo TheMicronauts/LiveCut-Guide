@@ -9,13 +9,13 @@ https://github.com/TheMicronauts/Guide-LiveCut/releases/download/v1.0.0/Guide-Li
 
 ---
 
-Les instructions pour compiler le plug-in au format de son choix se trouvent sur le [README du dépôt d’eventual-recluse](https://github.com/eventual-recluse/LiveCut). Une version VST3 pour macOS (que j’ai compilée le 14 mars 2025) est téléchargeable depuis ce lien :
+Les instructions pour compiler le plug-in au format de son choix se trouvent sur le [README du dépôt d’eventual-recluse](https://github.com/eventual-recluse/LiveCut). Une version VST3 pour macOS est téléchargeable depuis ce lien (je l’ai compilée le 14 mars 2025) :
 
 https://github.com/TheMicronauts/Guide-LiveCut/releases/download/v1.0.0/LiveCut.vst3
 
-Un bug graphique impose de redimensionner la fenêtre du plug-in pour faire apparaître son interface. Pour cela, il faut bouger légèrement le petit triangle composé de trois lignes parallèles, au centre de l’écran noir. À part ça, il marche comme le plug-in d’origine, qui se bloque parfois et semble ne plus agir ; il faut alors le supprimer de l’hôte et le recharger.
+Un bug graphique impose de redimensionner la fenêtre du plug-in pour faire apparaître son interface. Pour cela, il suffit de bouger légèrement le petit triangle composé de trois lignes parallèles, au centre de l’écran noir. À part ça, il marche comme le plug-in d’origine, qui se bloque parfois et semble ne plus agir ; il faut alors le supprimer de l’hôte et le recharger.
 
 ---
 
 Ce projet est basé sur LiveCut de eventual-recluse, sous licence GPL-3.0.
-Vous pouvez consulter le code source original ici : https://github.com/eventual-recluse/LiveCut
+Vous pouvez consulter le code source original sur [son dépôt](https://github.com/eventual-recluse/LiveCut).
