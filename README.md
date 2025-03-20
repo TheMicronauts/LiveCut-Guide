@@ -1,5 +1,5 @@
 # LiveCut-Guide
-## Guide pour LiveCut, un plug-in de découpage rythmique aléatoire (beat slicer)
+## Guide pour LiveCut, un plug-in de découpage rythmique (beat slicer)
 
 LiveCut est un plug-in audio développé au début des années 2000 par [Rémy Müller](https://github.com/remymuller) (alias [Mdsp](https://github.com/mdsp) de Smartelectronix) et porté aux formats actuels par [eventual-recluse](https://github.com/eventual-recluse).
 
