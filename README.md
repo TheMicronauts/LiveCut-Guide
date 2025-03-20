@@ -9,7 +9,7 @@ https://github.com/TheMicronauts/LiveCut-Guide/releases/download/v1.0.0/LiveCut-
 
 ---
 
-Les instructions pour compiler le plug-in au format de son choix se trouvent sur le [README du dépôt d’eventual-recluse](https://github.com/eventual-recluse/LiveCut). Une version VST3 pour macOS est téléchargeable depuis ce lien (je l’ai compilée le 14 mars 2025) :
+Les instructions pour compiler le plug-in dans le format de son choix se trouvent sur le [README du dépôt d’eventual-recluse](https://github.com/eventual-recluse/LiveCut). Une version VST3 pour macOS est téléchargeable depuis ce lien (je l’ai compilée le 14 mars 2025) :
 
 https://github.com/TheMicronauts/LiveCut-Guide/releases/download/v1.0.0/LiveCut.vst3
 
