@@ -5,7 +5,7 @@ LiveCut est un plug-in audio développé au début des années 2000 par [Rémy M
 
 [Son manuel en anglais](https://web.archive.org/web/20120611154114/http://mdsp.smartelectronix.com/doc/index.php/Livecut) a toujours été succinct. J’en ai écrit un plus complet en français pour mes étudiants, au format rtf (Rich Text Format), largement reconnu. Il est téléchargeable depuis ce lien :
 
-https://github.com/TheMicronauts/LiveCut-Guide/releases/download/v1.0.0/Guide-LiveCut.rtf
+https://github.com/TheMicronauts/LiveCut-Guide/releases/download/v1.0.0/LiveCut-Guide.rtf
 
 ---
 
