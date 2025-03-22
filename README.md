@@ -14,7 +14,7 @@ P.-S. : Andreya_Autumn a de [bons arguments en faveur de LiveCut](https://www.kv
 
 ---
 
-Les instructions pour compiler le plug-in dans le format de son choix se trouvent sur le [README du dépôt d’eventual-recluse](https://github.com/eventual-recluse/LiveCut). Une version VST3 pour macOS est téléchargeable depuis ce lien (je l’ai compilée le 14 mars 2025 et testée sous macOS 10.13 High Sierra et 10.14 Mojave) :
+Les instructions pour compiler le plug-in dans le format de son choix se trouvent sur le [README du dépôt d’eventual-recluse](https://github.com/eventual-recluse/LiveCut). Une version VST3 pour macOS est téléchargeable depuis ce lien (compilée le 14 mars 2025 et testée sous macOS 10.13 High Sierra et 10.14 Mojave) :
 
 https://github.com/TheMicronauts/LiveCut-Guide/releases/download/v1.0.0/LiveCut.vst3.zip
 
