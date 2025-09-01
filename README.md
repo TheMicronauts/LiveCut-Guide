@@ -6,15 +6,17 @@
 
 LiveCut est un plug-in audio développé au début des années 2000 par [Rémy Müller](https://github.com/remymuller) (alias [Mdsp](https://github.com/mdsp) de Smartelectronix) et porté aux formats actuels par [eventual-recluse](https://github.com/eventual-recluse).
 
-Son [manuel en anglais](https://web.archive.org/web/20120611154114/http://mdsp.smartelectronix.com/doc/index.php/Livecut) a toujours été succinct. J’en ai écrit un plus complet en français pour mes étudiants, au format rtf (Rich Text Format, largement reconnu). Il est téléchargeable depuis ce lien :
+Son [manuel en anglais](https://web.archive.org/web/20120611154114/http://mdsp.smartelectronix.com/doc/index.php/Livecut) a toujours été succinct. J’en ai écrit un plus complet en français pour mes élèves, au format rtf (Rich Text Format, largement reconnu). Il est téléchargeable depuis ce lien :
 
 https://github.com/TheMicronauts/LiveCut-Guide/releases/download/v1.0.0/LiveCut-Guide.rtf
 
-P.-S. : Andreya_Autumn a de [bons arguments en faveur de LiveCut](https://www.kvraudio.com/forum/viewtopic.php?p=8490625#p8490625) sur KVR.
+P.-S. : Andreya_Autumn a [d’excellents arguments en faveur de LiveCut](https://www.kvraudio.com/forum/viewtopic.php?p=8490625#p8490625) sur KVR.
 
 ---
 
-Les instructions pour compiler le plug-in dans le format de son choix se trouvent sur le [README du dépôt d’eventual-recluse](https://github.com/eventual-recluse/LiveCut). Une version VST3 pour macOS est téléchargeable depuis ce lien (compilée le 14 mars 2025, testée sous macOS 10.13 High Sierra et 10.14 Mojave) :
+Les instructions pour compiler le plug-in dans le format de son choix se trouvent sur le [README du dépôt d’eventual-recluse](https://github.com/eventual-recluse/LiveCut). 
+
+J’ai compilé le 14 mars 2025 une version VST3 pour macOS, testée sous macOS 10.13 High Sierra et 10.14 Mojave). Elle est téléchargeable depuis ce lien :
 
 https://github.com/TheMicronauts/LiveCut-Guide/releases/download/v1.0.0/LiveCut.vst3.zip
 
