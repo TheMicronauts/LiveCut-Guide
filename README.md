@@ -2,7 +2,7 @@
 
 ![Smartelectronix](https://github.com/user-attachments/assets/b2350146-99d9-4ef6-a6f9-dc835d0ad967)
 
-## Guide pour LiveCut, un plug-in de découpage rythmique (beat slicer)
+## Guide et VST3 de LiveCut, un plug-in de découpage rythmique (beat slicer)
 
 LiveCut est un plug-in audio développé au début des années 2000 par [Rémy Müller](https://github.com/remymuller) (alias [Mdsp](https://github.com/mdsp) de Smartelectronix) et porté aux formats actuels par [eventual-recluse](https://github.com/eventual-recluse).
 
