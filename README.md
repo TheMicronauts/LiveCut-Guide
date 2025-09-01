@@ -14,7 +14,7 @@ P.-S. : Andreya_Autumn a [d’excellents arguments en faveur de LiveCut](https:/
 
 ---
 
-Les instructions pour compiler le plug-in dans le format de son choix se trouvent sur le [README du dépôt d’eventual-recluse](https://github.com/eventual-recluse/LiveCut). 
+Les instructions pour compiler le plug-in dans le format de son choix se trouvent sur le [README du dépôt d’eventual-recluse](https://github.com/eventual-recluse/LiveCut).     
 
 J’ai compilé le 14 mars 2025 une version VST3 pour macOS, testée sous macOS 10.13 High Sierra et 10.14 Mojave). Elle est téléchargeable depuis ce lien :
 
