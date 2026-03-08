@@ -20,7 +20,7 @@ JAS is shorthand for Just a Sample.
 
 ## Plugin Interface
 
-![Plugin UI 1.2](Assets/Features/Plugin%20UI%20v1.2.png)
+https://github.com/BOBONA/Just-a-Sample/blob/master/Assets/Features/Plugin%20UI%20v1.2.png
 
 ### Playback Controls
 ![Playback Controls](Assets/Features/Playback%20Controls.png)
