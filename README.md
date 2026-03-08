@@ -19,11 +19,10 @@ JAS is shorthand for Just a Sample.
 - [Tips and Tricks](#tips-and-tricks)
 
 ## Plugin Interface
-
-https://github.com/BOBONA/Just-a-Sample/blob/master/Assets/Features/Plugin%20UI%20v1.2.png
+<img width="" height="" alt="Plugin UI v1 2" src="https://github.com/user-attachments/assets/387fc170-04e1-4b94-8e4b-71b7fb7690f3" />
 
 ### Playback Controls
-![Playback Controls](Assets/Features/Playback%20Controls.png)
+![Playback Controls](https://github.com/user-attachments/assets/4b374721-d62e-4e26-92e9-23c94df4c2a4)
 
 After loading a sound into Just a Sample, the header is the first place to find key playback controls. 
 
@@ -34,8 +33,7 @@ Most controls can be automated smoothly.
 1. Tune the pitch of your sound with the **semitone control** (-18 to +18) and finetune with the **cent control** (-100 to +100).
 
 2. **EXPERIMENTAL**: This control opens a dialog to select a region of your sample. JAS will analyze the pitch of the selected region and automatically set the semitone and cent controls, such that the center A plays at 440hz. This works best on simple sound sources.
-
-<p align="center"><img src="Assets/Features/Detect Pitch.png" width="60%"></p>
+<p align="center"><img width="1184" height="590" alt="Detect Pitch" src="https://github.com/user-attachments/assets/bba164d6-8484-45f7-a882-23ef21a0c2e0" /></p>
 
 3. The **attack envelope** controls the volume of your instrument when a note is first activated. You have fine control over the attack length and shape. You should use a short attack time for quicker sounds and a longer attack time for more drawn out sounds. The default value is 1ms, but most sounds will use >20ms for a more natural feel.
 
@@ -63,7 +61,7 @@ Most controls can be automated smoothly.
 10. The **gain control** scales the plugin's output volume.
 
 ### Editor and Navigator
-![Editor and Navigator](Assets/Features/Editor%20and%20Navigator.png)
+<img width="879" height="410" alt="Editor and Navigator" src="https://github.com/user-attachments/assets/487c88e0-ec21-4369-90c1-acd19a742656" />
 
 Through the **editor** and **navigator** views (top and bottom waveform), JAS enables modern, powerful navigation. Enjoy beautiful, fast rendering. These views also display active voices.
 
@@ -77,13 +75,13 @@ JAS enables sample-level precision. Seamlessly zoom in to the level of individua
 
 At a high zoom level, JAS will display channels separately. For visual clarity, only a single channel will have full opacity. This is purely visual, and you can select which channel is focused by clicking on the waveform.
 
-<p align="center"><img src="Assets/Features/Extreme Zoom.png" width="60%"></p>
+<p align="center"><img width="593" height="275" alt="Extreme Zoom" src="https://github.com/user-attachments/assets/52aece51-de26-4bc4-bd6c-914a4dfd22d4" /></p>
 
 JAS includes a *special* feature when the sample bounds go below a small threshold. **Waveform Mode** loops your sample bounds like a wavetable synth. Combined with the effects chain, this feature turns JAS into a unique and surprisinly versatile synthesizer. It also comes with separate tuning parameters. I have lots of fun with this, exploring the sound of different waveforms. 
 
 Note that the **Waveform Mode** label also functions as a toggle, in case you need to disable it.
 
-<p align="center"><img src="Assets/Features/Waveform Mode.png" width="60%"></p>
+<p align="center"><img width="587" height="277" alt="Waveform Mode" src="https://github.com/user-attachments/assets/1988e829-8cad-4753-906d-906af5ccae81" /></p>
 
 13. JAS pairs the editor with the **navigator**, which acts as a "scrollbar" of sorts for your waveform. Use your mouse to quickly move around and resize the view. The navigator also reacts to scroll gestures like the editor. Double-click to reset the view.
 
@@ -95,7 +93,7 @@ Note that the **Waveform Mode** label also functions as a toggle, in case you ne
 
 17. For convenience, JAS allows direct **recording** into the plugin. Configure your audio inputs with the little mic icon.
 
-<p align="center"><img src="Assets/Features/Configure Record.png" width="50%"></p>
+<p align="center"><img width="405" height="257" alt="Configure Record" src="https://github.com/user-attachments/assets/bdead542-d93d-47f4-90c3-dc67548af166" /></p>
 
 18. **Fit** the editor view to your sample bounds.
 
@@ -103,7 +101,7 @@ Note that the **Waveform Mode** label also functions as a toggle, in case you ne
 
 ### Effects 
 
-![Effects](Assets/Features/Effects.png)
+<img width="879" height="164" alt="Effects" src="https://github.com/user-attachments/assets/f3353d9a-37bc-4543-99f1-fcdceb702d2b" />
 
 The **effects** chain lets you fine-tune your sound without leaving the plugin interface. JAS provides four effect modules, which can be freely reordered.
 
@@ -121,7 +119,7 @@ The **effects** chain lets you fine-tune your sound without leaving the plugin i
 
 ### Footer
 
-![Footer](Assets/Features/Footer.png)
+![Footer](https://github.com/user-attachments/assets/24824af7-7417-40fd-9c6d-28f74bfcc54b)
 
 The footer contains some additional, non-essential plugin controls.
 
@@ -133,7 +131,7 @@ The footer contains some additional, non-essential plugin controls.
 
 29. **Dark mode** can reduce eye strain.
 
-<p align="center"><img src="Assets/Features/Dark Mode.png" width="60%"></p>
+31. <p align="center"><img width="585" height="456" alt="Dark Mode" src="https://github.com/user-attachments/assets/0c530274-cd22-401a-8d12-871df9afa1d9" /></p>
 
 30. **More help** opens this page :\)
 
