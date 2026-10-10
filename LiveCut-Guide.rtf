@@ -13,13 +13,17 @@
 \
 
 \f2 \cb3 LiveCut
-\f1 \cb1  est un \'ab beat slicer \'bb al\'e9atoire. Il r\'e9organise le flux sonore en d\'e9coupant des segments (slices) qui sont r\'e9p\'e9t\'e9s et modifi\'e9s, de mani\'e8re \'e0 former des phrases (patterns) de 1 \'e0 8 mesures se concluant par des roulements. Les aspects al\'e9atoires sont strictement encadr\'e9s par l\'92algorithme choisi et les limites fix\'e9es par la musicienne.\
+\f1 \cb1  est un \'ab beat slicer \'bb al\'e9atoire. Il r\'e9organise le flux sonore en d\'e9coupant des segments (slices) d\'92une dur\'e9e correspondant \'e0 une figure de note, qui sont r\'e9p\'e9t\'e9s al\'e9atoirement, tout en restant synchronis\'e9s \'e0 la mesure. \
 \
-Pour conna\'eetre son utilit\'e9 et comprendre sa musicalit\'e9, il faut lire la courte 
+Ces d\'e9coupages rythmiques forment des phrases (patterns) de 1 \'e0 8 mesures se concluant par des roulements. L\'92aspect al\'e9atoire est strictement encadr\'e9 par le choix de l\'92algorithme et le r\'e9glage de ses param\'e8tres.\
+\
+La courte 
 \i\b Introduction
-\i0\b0  du {\field{\*\fldinst{HYPERLINK "https://web.archive.org/web/20120611154114/http://mdsp.smartelectronix.com/doc/index.php/Livecut"}}{\fldrslt manuel d\'92origine en anglais}}.\
+\i0\b0  du {\field{\*\fldinst{HYPERLINK "https://web.archive.org/web/20120611154114/http://mdsp.smartelectronix.com/doc/index.php/Livecut"}}{\fldrslt manuel d\'92origine en anglais}} permet de comprendre l\'92utilit\'e9 de LiveCut et pourquoi son r\'e9sultat est plus musical que celui de ses concurrents\'a0: \
 \
-Pour jouer ensuite avec LiveCut et \'eatre rapidement productive, il suffit de choisir les r\'e9glages essentiels ci-dessous en laissant les r\'e9glages optionnels sur leurs valeurs par d\'e9faut.\
+\'ab\'a0Livecut est bas\'e9 sur BBCut, une biblioth\'e8que de d\'e9coupe de breakbeats \'e9crite par Nick Collins pour SuperCollider. La biblioth\'e8que BBCut est n\'e9e de travaux sur un algorithme visant \'e0 automatiser le d\'e9coupage de breakbeats dans un style jungle ou drum & bass des d\'e9buts. [\'85] C'est un beat-slicer en temps r\'e9el, mais au lieu de manipuler des bouts d'audio \'e9gaux en longueur comme le font la plupart des beat-slicers, il fonctionne sur le principe de coupes audio dont la longueur et le nombre de r\'e9p\'e9titions d\'e9pendent du contexte et de la proc\'e9dure de d\'e9coupe. Les coupes sont organis\'e9es en blocs, qui forment ensuite des phrases, et chaque phrase peut se terminer par un roulement ou un fill.\'a0\'bb\
+\
+Pour jouer avec LiveCut et \'eatre rapidement productive, il suffit de choisir l\'92algorithme, la subdivision, d\'92augmenter le nombre de r\'e9p\'e9titions de CutProc11, et de laisser le reste des param\'e8tres sur leur valeur par d\'e9faut.\
 \
 \
 \
@@ -337,4 +341,4 @@ En l\'92absence comme ici de filtres pr\'e9 et post r\'e9-\'e9chantillonnage, le
 \
 Plug-in original : {\field{\*\fldinst{HYPERLINK "https://github.com/mdsp/Livecut"}}{\fldrslt https://github.com/mdsp/Livecut}}\
 Port 64-bit : {\field{\*\fldinst{HYPERLINK "https://github.com/eventual-recluse/LiveCut"}}{\fldrslt https://github.com/eventual-recluse/LiveCut}}\
-Manuel en fran\'e7ais : {\field{\*\fldinst{HYPERLINK "https://github.com/TheMicronauts/LiveCut-Guide"}}{\fldrslt \cf2 \cb5 https://github.com/TheMicronauts/LiveCut-Guide}}}
+Manuel en fran\'e7ais : {\field{\*\fldinst{HYPERLINK "https://github.com/TheMicronauts/LiveCut-Guide"}}{\fldrslt https://github.com/TheMicronauts/LiveCut-Guide}}}
