@@ -20,7 +20,7 @@ J’ai compilé le 14 mars 2025 une version VST3 pour macOS, testée sous macOS 
 
 https://github.com/TheMicronauts/LiveCut-Guide/releases/download/v1.0.0/LiveCut.vst3.zip
 
-Un bug graphique impose de redimensionner la fenêtre du plug-in pour faire apparaître son interface. Pour cela, il suffit de bouger légèrement le petit triangle composé de trois lignes parallèles, au centre de l’écran noir. À part ça, il marche comme le plug-in d’origine. Il lui arrive parfois de se bloquer et de ne plus prendre en compte ses réglages ; il faut alors le supprimer de l’hôte et le recharger.
+Un bug graphique impose de redimensionner la fenêtre du plug-in pour faire apparaître son interface. Pour cela, il suffit de bouger légèrement le petit triangle composé de trois lignes parallèles, au centre de l’écran noir. À part ça, il marche comme le plug-in d’origine. Comme celui-ci, il lui arrive parfois de se bloquer et de ne plus prendre en compte ses réglages ; il faut alors le supprimer de l’hôte et le recharger.
 
 ---
 
