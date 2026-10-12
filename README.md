@@ -8,7 +8,7 @@ LiveCut est un plug-in audio développé au début des années 2000 par [Rémy M
 
 Son [manuel en anglais](https://web.archive.org/web/20120611154114/http://mdsp.smartelectronix.com/doc/index.php/Livecut) a toujours été succinct. J’en ai écrit un plus complet en français pour mes élèves, au format rtf (Rich Text Format, largement reconnu). Il est téléchargeable depuis ce lien :
 
-https://github.com/TheMicronauts/LiveCut-Guide/releases/download/v1.0.0/LiveCut-Guide.rtf
+https://github.com/TheMicronauts/LiveCut-Guide/releases/download/v1.0.1/LiveCut-Guide.rtf
 
 P.-S. : Andreya_Autumn a [d’excellents arguments en faveur de LiveCut](https://www.kvraudio.com/forum/viewtopic.php?p=8490625#p8490625) sur KVR.
 
@@ -18,7 +18,7 @@ Les instructions pour compiler le plug-in dans le format de son choix se trouven
 
 J’ai compilé le 14 mars 2025 une version VST3 pour macOS, testée sous macOS 10.13 High Sierra et 10.14 Mojave. Elle est téléchargeable depuis ce lien :
 
-https://github.com/TheMicronauts/LiveCut-Guide/releases/download/v1.0.0/LiveCut.vst3.zip
+https://github.com/TheMicronauts/LiveCut-Guide/releases/download/v1.0.1/LiveCut.vst3.zip
 
 Un bug graphique impose de redimensionner la fenêtre du plug-in pour faire apparaître son interface. Pour cela, il suffit de bouger légèrement le petit triangle composé de trois lignes parallèles, au centre de l’écran noir. À part ça, il marche comme le plug-in d’origine. Comme celui-ci, il lui arrive parfois de se bloquer et de ne plus prendre en compte ses réglages ; il faut alors le supprimer de l’hôte et le recharger.
 
